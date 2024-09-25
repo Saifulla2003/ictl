@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* table{
+  background-image:url('l2.webp');
+  border-radius: 20px;
+  border-color: black;
+  border-style: solid;
+  padding:4px ;
+}  */
+#a{
+  background-color:rgb(58, 58, 104);
+}
+#ab{
+  background-color:rgb(88, 137, 136);
+}
